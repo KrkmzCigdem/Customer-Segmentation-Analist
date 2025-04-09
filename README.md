@@ -5,11 +5,11 @@ This project performs customer segmentation using the MallCustomer.csv dataset. 
 
 ## 📊 Dataset
 The MallCustomer.csv dataset contains the following customer attributes:
-       - CustomerID
-       - Gender
-       - Age
-       - Annual Income (k$)
-       - Spending Score (1-100)
+1) CustomerID
+2) Gender
+3) Age
+4) Annual Income (k$)
+5) Spending Score (1-100)
 
 ## 📁 Project Structure
 
